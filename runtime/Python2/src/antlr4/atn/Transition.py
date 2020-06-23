@@ -251,4 +251,3 @@ Transition.serializationTypes = {
              WildcardTransition: Transition.WILDCARD,
              PrecedencePredicateTransition: Transition.PRECEDENCE
          }
-
